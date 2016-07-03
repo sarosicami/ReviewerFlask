@@ -1,0 +1,1312 @@
+<Products pid="1">
+    <Product>
+        <brand>Lenovo</brand>
+        <model>IdeaPad 100-15</model>
+        <processor>Intel Core i3 - 5005U 2000 MHz Broadwell</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>500 GB</hard_drive>
+        <video_card>Intel HD Graphics</video_card>
+        <card_description>Integrated</card_description>
+        <battery_life>3 hours</battery_life>
+        <item_weight>2.3 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black</color>
+        <operating_system>Free DOS</operating_system>
+    </Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user1</user>
+            <text>Mai sunt dezavantaje: bateria este incorporata, procesorul lipit pe placa. Avantaje: procesorul destul de bun, la fel si video.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Mai sunt dezavantaje: bateria este incorporata,</text>
+                    <Opinion aspect="Battery" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="1:1">
+                    <text>procesorul lipit pe placa.</text>
+                    <Opinion aspect="Processor" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="1:2">
+                    <text>Avantaje: procesorul destul de bun,</text>
+                    <Opinion aspect="Processor" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:3">
+                    <text>la fel si video.</text>
+                    <Opinion aspect="Video" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+         <Review rid="2">
+            <user>user2</user>
+            <text>Este un laptop bun la pretul de 1149 ron (black friday), am instalat pe el windows 10 home 32 bit si merge bine! Pro: - autonomie mare 4 ore si 30 min in modul battery saver si contrast 50 %, procesor bun, destul de compact si usor. Contra: - butonul de power este pozitionat aiurea in partea stanga lateral jos; - doar doua sloturi usb (3. 0+2. 0) care sunt foarte apropiate intre ele si fata de jackul audio - speakerul este o rusine (calitate si volum) - ruleaza filme fara intreruperi full hd de dimensiuni mari (10-15 gb).
+            </text>
+            <sentences>
+                <sentence id="2:0">
+                    <text>Este un laptop bun la pretul de 1149 ron (black friday),</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:1">
+                    <text>am instalat pe el windows 10 home 32 bit si merge bine!</text>
+                    <Opinion aspect="OS" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:2">
+                    <text>Pro: - autonomie mare 4 ore si 30 min in modul battery saver si contrast 50 %,</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:3">
+                    <text>procesor bun,</text>
+                    <Opinion aspect="Processor" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:4">
+                    <text>destul de compact si usor.</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:5">
+                    <text>Contra: - butonul de power este pozitionat aiurea in partea stanga lateral jos;</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="2:6">
+                    <text>- doar doua sloturi usb (3. 0+2. 0) care sunt foarte apropiate intre ele si fata de jackul audio</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="2:7">
+                    <text>Contra:- speakerul este o rusine (calitate si volum)</text>
+                    <Opinion aspect="Audio" attribute="Quality" emotion="disappointed" polarity="negative" />
+                </sentence>
+                <sentence id="2:8">
+                    <text>- ruleaza filme fara intreruperi full hd de dimensiuni mari (10-15 gb)</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user3</user>
+            <text>PRO: instalarea a decurs foarte rapid, recomandabil W10 x64, autonomie baterie 3 h, driverele se instaleaza complet din update-ul windows-ului. Contra: buton power pozitionat in partea stanga si foarte mic (parca ar fi tableta), portul de USB 3. 0 prioritar pentru periferice (imprimante, scanere, etc), TASTATURA UK!!!!! P. S. Pentru pretul de vanzare este o alegere buna daca se foloseste pentru office si low usage acasa. Ma bucur pentru alegere Emag-ului de a schimba curierul cu cei de la DPD, astfel in 48H am primit comanda la usa, nu ca la FAN curier sa fac politie coletareasca dupa aproape o saptamana.
+            </text>
+            <sentences>
+                <sentence id="3:0">
+                    <text>PRO: instalarea a decurs foarte rapid, recomandabil W10 x64,</text>
+                    <Opinion aspect="OS" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:1">
+                    <text>autonomie baterie 3 h,</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:2">
+                    <text>driverele se instaleaza complet din update-ul windows-ului</text>
+                    <Opinion aspect="Software" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:3">
+                    <text>Contra: buton power pozitionat in partea stanga si foarte mic (parca ar fi tableta),</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="3:4">
+                    <text>portul de USB 3. 0 prioritar pentru periferice (imprimante, scanere, etc),</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="3:5">
+                    <text>TASTATURA UK!!!!!</text>
+                    <Opinion aspect="Keyboard" attribute="Design" emotion="disappointed" polarity="negative" />
+                </sentence>
+                <sentence id="3:6">
+                    <text>P. S. Pentru pretul de vanzare este o alegere buna daca se foloseste pentru office si low usage acasa.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:7">
+                    <text>Ma bucur pentru alegere Emag-ului de a schimba curierul cu cei de la DPD, astfel in 48H am primit comanda la usa, nu ca la FAN curier sa fac politie coletareasca dupa aproape o saptamana.</text>
+                    <Opinion aspect="Company" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user4</user>
+            <text>Pentru ofice-gaming e perfect</text>
+            <sentences>
+                <sentence id="4:0">
+                    <text>Pentru ofice-gaming e perfect</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="5">
+            <user>user5</user>
+            <text>Sunt multumit de el</text>
+            <sentences>
+                <sentence id="5:0">
+                    <text>Sunt multumit de el</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+    <Product>
+        <brand>Lenovo</brand>
+        <model>IdeaPad G50-45</model>
+        <processor>AMD Quad-Core A6-6310 1800 MHz</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>1000 GB</hard_drive>
+        <video_card>Radeon R5 M330</video_card>
+        <card_description>Dedicated</card_description>
+        <battery_life></battery_life>
+        <item_weight>2.1 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black</color>
+        <operating_system>Free DOS</operating_system>
+    </Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user2</user>
+            <text>Acest laptop dupa ce l-am comandat si am instalat windows 8. 1 pro si toate driverele necesare am facut testele in materie de viteza de procesare, rapiditate in materie de aplicatii si jocuri care ruleaza foarte bine pot sa spun ca sunt foarte multumit de acest laptop il recomand sa-l cumparati e foarte bun!</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Acest laptop dupa ce l-am comandat si am instalat windows 8. 1 pro si toate driverele necesare am facut testele in materie de viteza de procesare,</text>
+                    <Opinion aspect="OS" attribute="General" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="1:1">
+                    <text>rapiditate in materie de aplicatii</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:2">
+                    <text>si jocuri care ruleaza foarte bine</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:3">
+                    <text>pot sa spun ca sunt foarte multumit de acest laptop il recomand sa-l cumparati e foarte bun!</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+    <Product>
+        <brand>Asus</brand>
+        <model>ROG G551JW-CN319D</model>
+        <processor>Intel Core i7 4750HQ 2000 MHz Haswell</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>8 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>1000 GB</hard_drive>
+        <video_card>NVIDIA GTX 960M</video_card>
+        <card_description>Dedicated</card_description>
+        <battery_life></battery_life>
+        <item_weight>2.7 kilos</item_weight>
+        <housing_material> metal and plastic</housing_material>
+        <color>black</color>
+        <operating_system>Free DOS</operating_system>
+    </Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user1</user>
+            <text>Sunt incantat de laptop pana acum. Il folosesc pentru gaming si, pentru ca sunt pretentios la calitatea grafica, pot spune ca am facut o alegere buna. Am pus Windows-ul pe SSD (care e mic si incape la limita), dar am rezolvat cu temporary files sa fie stocate in alta partitie impreuna cu programele instalate (se booteaza in maxim 15 sec pe ceas): D
+Ce nu ma incanta:
+- e faptul ca am un pixel mort in semicentrul ecranului si poate fii foarte deranjant (pentru unii) dar si ignorat (mai mult sau mai putin)
+- Temperatura creste semificativ in timp ce ma joc. Ex: AC Unity cu grafica la high creste temperatura la 80 de grade (aerul scos imi tine de cald). Mentionez ca am cooler extern si tu toate acestea urca asa sus.
+- Backround bleeding (stanga sus si dreapta jos) prezent
+Desi procesorul nu e cel mai cel, sunt multumit de el, isi face treaba.
+Il recomand, dar nu pretentiosilor.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Sunt incantat de laptop pana acum.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:1">
+                    <text>Il folosesc pentru gaming si, pentru ca sunt pretentios la calitatea grafica, pot spune ca am facut o alegere buna.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:2">
+                    <text>Ce nu ma incanta:
+- e faptul ca am un pixel mort in semicentrul ecranului si poate fii foarte deranjant (pentru unii) dar si ignorat (mai mult sau mai putin)</text>
+                    <Opinion aspect="Display" attribute="Quality" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="1:3">
+                    <text>- Temperatura creste semificativ in timp ce ma joc. Ex: AC Unity cu grafica la high creste temperatura la 80 de grade (aerul scos imi tine de cald). Mentionez ca am cooler extern si tu toate acestea urca asa sus.</text>
+                    <Opinion aspect="Laptop" attribute="Quality" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="1:4">
+                    <text>- Backround bleeding (stanga sus si dreapta jos) prezent</text>
+                     <Opinion aspect="Display" attribute="Quality" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="1:5">
+                    <text>Il recomand, dar nu pretentiosilor.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="2">
+            <user>user3</user>
+            <text>Pro: laptopul functioneaza corect
+Pretul accesibil
+Sunet/tastatura/touchpad foarte bune.
+Calitatea de material foarte buna
+Cons: se lipeste murdaria de tastatura
+Si cea mai mare problema.. La monitor in partea de jos unde scrie asus, se vede ca plasticul se dezlipeste de sticla/monitor.. Cea ce pare enervant</text>
+            <sentences>
+                <sentence id="2:0">
+                    <text>Pro: laptopul functioneaza corect</text>
+                    <Opinion aspect="Laptop" attribute="Operation" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="2:1">
+                    <text>Pretul accesibil</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="2:2">
+                    <text>Calitatea de material foarte buna</text>
+                    <Opinion aspect="Laptop" attribute="Quality" emotion="excited" polarity="positive"/>
+                </sentence>
+                <sentence id="2:3">
+                    <text>Cons: se lipeste murdaria de tastatura</text>
+                    <Opinion aspect="Keyboard" attribute="Quality" emotion="dissatisfied" polarity="negative"/>
+                </sentence>
+                 <sentence id="2:4">
+                    <text>Si cea mai mare problema.. La monitor in partea de jos unde scrie asus, se vede ca plasticul se dezlipeste de sticla/monitor.. Ceea ce pare enervant</text>
+                    <Opinion aspect="Display" attribute="Quality" emotion="dissatisfied" polarity="negative"/>
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user4</user>
+            <text>Sunt foarte multumit cum merge, bateria rezista decent si jocurile merg fara probleme (recunosc ca nu joc jocuri care sunt super high-end din punct de vedere grafic, mai mult mmorpg-uri). Singura frustrare pe care am avut-o a fost ca nu se poate pune "legal" windows 7 pe el, deoarece driverele sunt pentru windows 8, 8. 1 si 10 momentan. Windows 10 instalat pe HDD merge suficient de bine. Personal nu recomand instalarea windows-ului pe SSD deoarece 24GB sunt putini in opinia mea.</text>
+            <sentences>
+                 <sentence id="3:0">
+                    <text>Sunt foarte multumit cum merge</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="excited" polarity="positive"/>
+                </sentence>
+                <sentence id="3:1">
+                    <text>bateria rezista decent</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="3:2">
+                    <text>si jocurile merg fara probleme (recunosc ca nu joc jocuri care sunt super high-end din punct de vedere grafic, mai mult mmorpg-uri)</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                 <sentence id="3:3">
+                    <text>Singura frustrare pe care am avut-o a fost ca nu se poate pune "legal" windows 7 pe el, deoarece driverele sunt pentru windows 8, 8. 1 si 10 momentan</text>
+                    <Opinion aspect="Software" attribute="Design" emotion="dissatisfied" polarity="negative"/>
+                </sentence>
+                <sentence id="3:4">
+                    <text>Windows 10 instalat pe HDD merge suficient de bine.</text>
+                    <Opinion aspect="OS" attribute="Performance" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="3:5">
+                    <text>Personal nu recomand instalarea windows-ului pe SSD deoarece 24GB sunt putini in opinia mea.</text>
+                    <Opinion aspect="Storage" attribute="Design" emotion="dissatisfied" polarity="negative"/>
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user1</user>
+            <text>Buna ziua. Am acest laptop de la craciun, si sunt tot mai nemultumit de el pe zi ce trece! Cand ma joc CS: GO, pe mirage am undeva la 50-60 fps! Doresc sa mentionez ca am graficile setate pe low (toate) si rezolutia 4: 3 1280 x 960! Ce as putea sa fac?</text>
+            <sentences>
+                <sentence id="4:0">
+                    <text>Buna ziua. Am acest laptop de la craciun, si sunt tot mai nemultumit de el pe zi ce trece!</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="disappointed" polarity="negative"/>
+                </sentence>
+                <sentence id="4:1">
+                    <text>Cand ma joc CS: GO, pe mirage am undeva la 50-60 fps!</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="disappointed" polarity="negative"/>
+                </sentence>
+                <sentence id="4:2">
+                    <text>Doresc sa mentionez ca am graficile setate pe low (toate) si rezolutia 4: 3 1280 x 960! Ce as putea sa fac?</text>
+                    <Opinion aspect="Laptop" attribute="Display" emotion="unmoved" polarity="neutral"/>
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="5">
+            <user>user1</user>
+            <text>Gaming adevarat</text>
+            <sentences>
+                <sentence id="5:0">
+                    <text>Gaming adevarat</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="excited" polarity="positive"/>
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="6">
+            <user>user3</user>
+            <text>Smecher pentru gaming</text>
+            <sentences>
+                <sentence id="6:0">
+                    <text>Smecher pentru gaming</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="excited" polarity="positive"/>
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="7">
+            <user>user6</user>
+            <text>PRO: Se misca bine la jocuri cu specificatii high/ultra. Fara lag.
+Cat despre mirosul ala ciudat de care se scrie in multe reviewuri e inexistent.
+
+CONTRA: Difuzoarele nu se ridica la nivelul celorlalte componente. Se aude un gajait cand ascult muzica (na, bine laptopul nu pentru difuzoare l-am cumparat)
+Tastatura mai scotea niste sunete ciudate la inceput dar acum vad ca e okei.
+
+
+Per ansamblu sunt multumit de el. Recomand!</text>
+            <sentences>
+                <sentence id="7:0">
+                    <text>PRO: Se misca bine la jocuri cu specificatii high/ultra. Fara lag.</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="7:1">
+                    <text>Cat despre mirosul ala ciudat de care se scrie in multe reviewuri e inexistent.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                 <sentence id="7:2">
+                    <text>CONTRA: Difuzoarele nu se ridica la nivelul celorlalte componente.Se aude un gajait cand ascult muzica (na, bine laptopul nu pentru difuzoare l-am cumparat)</text>
+                    <Opinion aspect="Audio" attribute="Performance" emotion="dissatisfied" polarity="negative"/>
+                </sentence>
+                 <sentence id="7:3">
+                    <text>Tastatura mai scotea niste sunete ciudate la inceput dar acum vad ca e ok.</text>
+                    <Opinion aspect="Keyboard" attribute="Operation" emotion="dissatisfied" polarity="negative"/>
+                </sentence>
+                 <sentence id="7:4">
+                    <text>Per ansamblu sunt multumit de el. Recomand!</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive"/>
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="8">
+            <user>user7</user>
+            <text>Am achizitionat de la emag acest laptop nu de mult timp, dar lam testat si sunt multumit de el. Racirea este buna, suportul tehnic perfect, isi face treaba si nu am probleme cu el. Ma deranjeaza faptul ca nu are chiar ultima generatie de procesor, dar intre acesta si ultima generatie nu prea este diferenta. Placile video care le detine ma incanta cel mai mult si sunetul pe boxe e exceptional.</text>
+            <sentences>
+                <sentence id="8:0">
+                    <text>Am achizitionat de la emag acest laptop nu de mult timp, dar l-am testat si sunt multumit de el.</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="8:1">
+                    <text>Racirea este buna,</text>
+                    <Opinion aspect="Cooling" attribute="Performance" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="8:2">
+                    <text>suportul tehnic perfect</text>
+                    <Opinion aspect="Laptop" attribute="Support" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="8:3">
+                    <text>isi face treaba si nu am probleme cu el.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="8:4">
+                    <text>Ma deranjeaza faptul ca nu are chiar ultima generatie de procesor, dar intre acesta si ultima generatie nu prea este diferenta.</text>
+                    <Opinion aspect="Processor" attribute="Design" emotion="dissatisfied" polarity="negative"/>
+                </sentence>
+                <sentence id="8:5">
+                    <text>Placile video care le detine ma incanta cel mai mult</text>
+                    <Opinion aspect="Video" attribute="Performance" emotion="excited" polarity="positive"/>
+                </sentence>
+                 <sentence id="8:6">
+                    <text>si sunetul pe boxe e exceptional.</text>
+                    <Opinion aspect="Audio" attribute="Performance" emotion="excited" polarity="positive"/>
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="9">
+            <user>user8</user>
+            <text>Cel mai tare joc pe care l-am gasit momentan e Ark survival si merge pe ultra
+Cat despre baterie tine cam 2 ore daca ma uit la 1080p
+Sa ma joc pe baterie inca nu am incercat</text>
+            <sentences>
+                <sentence id="9:0">
+                    <text>Cel mai tare joc pe care l-am gasit momentan e Ark survival si merge pe ultra</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="9:1">
+                    <text>Cat despre baterie tine cam 2 ore daca ma uit la 1080p</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="satisfied" polarity="positive"/>
+                </sentence>
+                <sentence id="9:2">
+                    <text>Sa ma joc pe baterie inca nu am incercat</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="unmoved" polarity="neutral"/>
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="10">
+            <user>user9</user>
+            <text>Foarte multumit:)</text>
+            <sentences>
+                <sentence id="10:0">
+                    <text>Foarte multumit:)</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive"/>
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+ <Product>
+        <brand>HP</brand>
+        <model>250 G4</model>
+        <processor>Intel Core i3 - 4005U 1700 MHz Haswell</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>1000 GB</hard_drive>
+        <video_card>Radeon AMD R5 M330</video_card>
+        <card_description>Dedicated</card_description>
+        <battery_life></battery_life>
+        <item_weight>2.1 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black</color>
+        <operating_system>Free DOS</operating_system>
+    </Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user1</user>
+            <text>BATERIA TINE MAXIM 2 ORE SI 26 MIN. PUTIN, FOARTE PUTIN PENTRU CELE 4 CELULE ALW BATERIEI!!! O FI DE VINA ACUMULATORUL???!!!! IN REST ESTE OK, functioneaza si cu windows 7 cu driverele descarcate de pe net de la hp. Trebuie sa introduceti doar seria modelului detinut. Daca mai are cineva.... Si il tine acumulatorul mai mult spuneti-mi va rog!!! Salutari tuturor. Ps. Cand il tineti in priza mai mult scoateti acumulatorul pt a nu se strica, nu este recomandat tinut in priza cu acumulatorul plin.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>BATERIA TINE MAXIM 2 ORE SI 26 MIN. PUTIN, FOARTE PUTIN PENTRU CELE 4 CELULE ALW BATERIEI!!! O FI DE VINA ACUMULATORUL???!!!!</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="disapointed" polarity="negative" />
+                </sentence>
+                <sentence id="1:1">
+                    <text>IN REST ESTE OK, functioneaza si cu windows 7 cu driverele descarcate de pe net de la hp.</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="1:2">
+                    <text>Trebuie sa introduceti doar seria modelului detinut.</text>
+                    <Opinion aspect="None" attribute="None" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="1:3">
+                    <text>Daca mai are cineva.... Si il tine acumulatorul mai mult spuneti-mi va rog!!!</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="1:4">
+                    <text>Salutari tuturor.</text>
+                    <Opinion aspect="None" attribute="None" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="1:5">
+                    <text>Ps. Cand il tineti in priza mai mult scoateti acumulatorul pt a nu se strica, nu este recomandat tinut in priza cu acumulatorul plin.</text>
+                    <Opinion aspect="Battery" attribute="Usability" emotion="unmoved" polarity="neutral" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="2">
+            <user>user2</user>
+            <text>L-am cumparat de 2 saptamani. Am instalat win7 merge fara probleme. Drivere functionale pe site-ul hp atentie la ce dotari are aparatul ca sa instalati drivere specifice. Cu ajutorul unui prieten am aflat si eu acest lucru. Livrare prompta. Totul ok</text>
+            <sentences>
+                <sentence id="2:0">
+                    <text>L-am cumparat de 2 saptamani.</text>
+                    <Opinion aspect="Laptop" attribute="Purchase" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="2:1">
+                    <text>Am instalat win7 merge fara probleme.</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:2">
+                    <text>Drivere functionale pe site-ul hp atentie la ce dotari are aparatul ca sa instalati drivere specifice.</text>
+                    <Opinion aspect="Software" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:3">
+                    <text> Cu ajutorul unui prieten am aflat si eu acest lucru.</text>
+                    <Opinion aspect="None" attribute="None" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="2:4">
+                    <text>Livrare prompta.</text>
+                    <Opinion aspect="Delivery" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:5">
+                    <text>Totul ok</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user3</user>
+            <text>Azi l-am primit. Estetic arata ok, am instalat w7Home Premium Edition fara nici cea mai mica problema.(10-15min)start in 20-30sec. Deocamdata singurul inconvenient este faptul ca nu are led pt caps and num lock. La banii acestia pt un produs nou, nu cred ca se poate altceva.</text>>
+            <sentences>
+                <sentence id="3:0">
+                    <text>Azi l-am primit.</text>
+                    <Opinion aspect="Laptop" attribute="Purchase" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="3:1">
+                    <text>Estetic arata ok,</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:2">
+                    <text>am instalat w7Home Premium Edition fara nici cea mai mica problema.(10-15min)start in 20-30sec.</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:3">
+                    <text>Deocamdata singurul inconvenient este faptul ca nu are led pt caps and num lock.</text>
+                    <Opinion aspect="Keyboard" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="3:4">
+                    <text>La banii acestia pt un produs nou, nu cred ca se poate altceva.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user4</user>
+            <text>Cu Windows 7 am avut probleme la instalare, nu recunoaște plăcile video sau nu poți marca o partitie activa făcându-l imposibil de activat Windows 7... In schimb pe Windows 10 rulează foarte bine pornește in 30-40 de secunde driverele se Inataleaza automat, designul este unul plăcut cu mici piramide pentru a nu-l scapă așa ușor, bateria tine in jur de 3-4 ore, nu face zgomot aproape deloc.</text>
+             <sentences>
+                <sentence id="4:0">
+                    <text>Cu Windows 7 am avut probleme la instalare, nu recunoaște plăcile video sau nu poți marca o partitie activa făcându-l imposibil de activat Windows 7...</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="4:1">
+                    <text> In schimb pe Windows 10 rulează foarte bine pornește in 30-40 de secunde</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="4:2">
+                    <text>driverele se Inataleaza automat,</text>
+                    <Opinion aspect="Software" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="4:3">
+                    <text>designul este unul plăcut cu mici piramide pentru a nu-l scapă așa ușor</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="4:4">
+                    <text>bateria tine in jur de 3-4 ore</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="4:5">
+                    <text>nu face zgomot aproape deloc.</text>
+                    <Opinion aspect="Laptop" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="5">
+            <user>user5</user>
+            <text></text>
+            <sentences>
+                <sentence id="5:0">
+                    <text>Foarte bun pretul la configuratia aceasta</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+         <Review rid="6">
+            <user>user6</user>
+            <text>Este un laptop decent, usor, se preteaza pentru deplasari, functioneaza bine cu win7, 10.
+Drivere se gasesc pe situl HP, se instaleaza fara probleme</text>
+            <sentences>
+                <sentence id="6:0">
+                    <text>Este un laptop decent</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="6:1">
+                    <text>usor</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="6:2">
+                    <text>se preteaza pentru deplasari,</text>
+                    <Opinion aspect="Laptop" attribute="Usability" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="6:3">
+                    <text>functioneaza bine cu win7, 10.</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="6:4">
+                    <text>Drivere se gasesc pe situl HP, se instaleaza fara probleme.</text>
+                    <Opinion aspect="Software" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+<Product>
+        <brand>HP</brand>
+        <model>250 G4</model>
+        <processor>Intel Core i5 - 5200U 2200 MHz Broadwell</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>500 GB</hard_drive>
+        <video_card>Radeon AMD R5 M330</video_card>
+        <card_description>Dedicated</card_description>
+        <battery_life></battery_life>
+        <item_weight>2.1 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black</color>
+        <operating_system>Free DOS</operating_system>
+    </Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user1</user>
+            <text>Il am de doua saptamani si se comporta foarte bine. Windows 8. 1 instaleaza majoritatea driverelor iar restul le-am luat de pe site-ul HP. Am adaugat o placuta de 4GB ram astfel acum merge cu 8GB, semnal wireless impecabil, TouchPad cu suport pentru gesturi functional, sunet stereo ok. Cea mai slaba componenta pare a fi camera web, care e VGA. Recomand cu incredere produsul.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Il am de doua saptamani si se comporta foarte bine.</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:1">
+                    <text>Windows 8. 1 instaleaza majoritatea driverelor iar restul le-am luat de pe site-ul HP.</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:2">
+                    <text>Am adaugat o placuta de 4GB ram astfel acum merge cu 8GB.</text>
+                    <Opinion aspect="Memory" attribute="Design" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="1:3">
+                    <text>semnal wireless impecabil,</text>
+                    <Opinion aspect="Network" attribute="Operation" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="1:4">
+                    <text>TouchPad cu suport pentru gesturi functional,</text>
+                    <Opinion aspect="TouchPad" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:5">
+                    <text>sunet stereo ok.</text>
+                    <Opinion aspect="Audio" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="1:6">
+                    <text>Cea mai slaba componenta pare a fi camera web, care e VGA</text>
+                    <Opinion aspect="Video" attribute="Performance" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="1:7">
+                    <text>Recomand cu incredere produsul.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="2">
+            <user>user2</user>
+            <text>Am cumparat laptopul pe 11. 05. 2016. Am instalat windows 10 si de la inceput am avut probleme cu semnalul de la placa de retea wireless. Am sunat la Depanero si l-au trimis in service autorizat HP. Sper sa nu ma lase Hardul cand revine din service (asa cum a postat cineva mai sus).:)</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Am cumparat laptopul pe 11 05 2016.</text>
+                    <Opinion aspect="Laptop" attribute="Purchase" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>Am instalat windows 10</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>si de la inceput am avut probleme cu semnalul de la placa de retea wireless.</text>
+                    <Opinion aspect="Network" attribute="Operation" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>Am sunat la Depanero si l-au trimis in service autorizat HP.</text>
+                    <Opinion aspect="Company" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="5:0">
+                    <text>Sper sa nu ma lase Hardul cand revine din service (asa cum a postat cineva mai sus).:)</text>
+                    <Opinion aspect="Hard Drive" attribute="Operation" emotion="unmoved" polarity="neutral" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user4</user>
+            <text>Foarte bun.. Pret rentabil si calitate superioara</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Foarte bun..</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+                 <sentence id="2:0">
+                    <text>Pret rentabil</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="3:0">
+                    <text>si calitate superioara</text>
+                    <Opinion aspect="Laptop" attribute="Quality" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user5</user>
+            <text>Am achizitionat acest laptop saptamana trecuta... Nu am avut probleme deloc cu el..semnaulul de la wifi functioneaza foarte bine, windows 10 a facut update'uri automat la tot ce era necesar...recomand</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Am achizitionat acest laptop saptamana trecuta...</text>
+                    <Opinion aspect="Laptop" attribute="Purchase" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                 <sentence id="2:0">
+                    <text>Nu am avut probleme deloc cu el..</text>
+                    <Opinion aspect="Laptop" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>semnaulul de la wifi functioneaza foarte bine,</text>
+                    <Opinion aspect="Network" attribute="Operation" emotion="excited" polarity="positive" />
+                </sentence>
+                 <sentence id="4:0">
+                    <text>windows 10 a facut update'uri automat la tot ce era necesar...</text>
+                    <Opinion aspect="OS" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="5:0">
+                    <text>recomand</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+         <Review rid="5">
+            <user>user5</user>
+            <text>Intradevar driverele nu sunt cele mai recente pe site-ul producatorului dar cu un minim efort poti rezolva foarte simplu aceasta problema in windows (device manager -> update drivers la fiecare componenta, in special wireless). Am instalat windows 8. 1 pro pe el si performantele sunt ok.Avand in vedere reducerea + imprimanta laser cadou, 1689 de lei mi se pare un pret rezonabil pentru acest laptop.</text>
+             <sentences>
+                <sentence id="1:0">
+                    <text>Intradevar driverele nu sunt cele mai recente pe site-ul producatorului dar cu un minim efort poti rezolva foarte simplu aceasta problema in windows (device manager -> update drivers la fiecare componenta, in special wireless). </text>
+                    <Opinion aspect="Software" attribute="Operation" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                 <sentence id="2:0">
+                    <text>Am instalat windows 8. 1 pro pe el si performantele sunt ok. </text>
+                    <Opinion aspect="OS" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>Avand in vedere reducerea + imprimanta laser cadou, 1689 de lei mi se pare un pret rezonabil pentru acest laptop.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+<Product>
+        <brand>HP</brand>
+        <model>250 G4</model>
+        <processor>Intel Core i5 - 4005U 1700 MHz Haswell</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>1000 GB</hard_drive>
+        <video_card>Intel HD Graphics</video_card>
+        <card_description>Integrated</card_description>
+        <battery_life></battery_life>
+        <item_weight>2.1 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black</color>
+        <operating_system>Free DOS</operating_system>
+    </Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user1</user>
+            <text>Arata foarte bine, este ok.... Un lucru important totusi, nu merge wi fi daca se schimba pozitia monitorului.... A trebuit sa-l returnez</text>
+            <sentences>
+                 <sentence id="1:0">
+                    <text>Arata foarte bine, </text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>este ok.... </text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>Un lucru important totusi, nu merge wi fi daca se schimba pozitia monitorului.... </text>
+                    <Opinion aspect="Network" attribute="Operation" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                 <sentence id="4:0">
+                    <text>A trebuit sa-l returnez</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="2">
+            <user>user4</user>
+            <text>Fain de tot</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Fain de tot</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user5</user>
+            <text>Am instalat win 10 pe el si merge super. Singurul neajuns e ca bateria tine 3 ore. In rest, se comporta foarte bine,</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Am instalat win 10 pe el si merge super.</text>
+                    <Opinion aspect="OS" attribute="Performance" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>In rest, se comporta foarte bine,</text>
+                    <Opinion aspect="Laptop" attribute="Operation" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user5</user>
+            <text>Acest laptop m-a impresionat enorm</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Acest laptop m-a impresionat enorm</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="5">
+            <user>user7</user>
+            <text>E foarte OK la raport calitate -pret. E super pentru un amator ca mine. Emai mult decat asteptam</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>E foarte OK la raport calitate -pret.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="1:0">
+                    <text>E super pentru un amator ca mine. E mai mult decat asteptam</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="6">
+            <user>user3</user>
+            <text>La ce configuratie are si tinand cont de brand.... Camera vg lasa de dorit.. Daca era macar un 720p era rentabil..</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>La ce configuratie are si tinand cont de brand.... Camera vg lasa de dorit.. Daca era macar un 720p era rentabil..</text>
+                    <Opinion aspect="Video" attribute="Performance" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+<Product>
+        <brand>HP</brand>
+        <model>250 G4</model>
+        <processor>Intel Celeron Dual Core N3050 1600 MHz Braswell</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>1000 GB</hard_drive>
+        <video_card>Intel HD Graphics</video_card>
+        <card_description>Integrated</card_description>
+        <battery_life></battery_life>
+        <item_weight>2.1 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black</color>
+        <operating_system>Free DOS</operating_system>
+</Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user2</user>
+            <text>Un laptop bun calitate/pret daca este doar pentru un utilizator obisnuit care nu cere de la el nimic deosebit(prelucrari video, jocuri hi-tech, etc)</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Un laptop bun calitate/pret daca este doar pentru un utilizator obisnuit care nu cere de la el nimic deosebit(prelucrari video, jocuri hi-tech, etc)</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="2">
+            <user>user3</user>
+            <text>I-l dau înapoi, este foarte slăbuț, ma așteptam la altceva, driverele se găsesc greu.. Procesorul doarme..</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>I-l dau înapoi, este foarte slăbuț, ma așteptam la altceva,</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="disappointed" polarity="negative" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>driverele se găsesc greu..</text>
+                    <Opinion aspect="Software" attribute="General" emotion="disappointed" polarity="negative" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>Procesorul doarme..</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="disappointed" polarity="negative" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user6</user>
+            <text>Atentie!!! Vine fara drivere si asta nu e bine deloc!!!</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Atentie!!! Vine fara drivere si asta nu e bine deloc!!!</text>
+                    <Opinion aspect="Software" attribute="General" emotion="disappointed" polarity="negative" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user3</user>
+            <text>La Wi-fi e varza semnal la 2 metri de ruter cum te departezi dispare semnalul</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>La Wi-fi e varza semnal la 2 metri de router cum te indepartezi dispare semnalul</text>
+                    <Opinion aspect="Network" attribute="Performance" emotion="disappointed" polarity="negative" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+<Product>
+        <brand>HP</brand>
+        <model>255 G4</model>
+        <processor>AmD A6-6310 1800 MHz</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>500 GB</hard_drive>
+        <video_card>AMD R4 Series</video_card>
+        <card_description>Integrated</card_description>
+        <battery_life></battery_life>
+        <item_weight>2.1 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black</color>
+        <operating_system>Free DOS</operating_system>
+</Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user4</user>
+            <text>Se misca bine la tot - sa aveti rabdare la update-uri. Unghi de vizualizare bun, ecran suficient de luminos, sunetul este cat trebuie ( ma asteptam sa se auda mai tare ca la o tableta). In concluzie se merita. Recomand. Mai ales ca l-am gasit la promotie cu pretul de 999,99 lei.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Se misca bine la tot - sa aveti rabdare la update-uri.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>Unghi de vizualizare bun,</text>
+                    <Opinion aspect="Display" attribute="Quality" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>ecran suficient de luminos</text>
+                    <Opinion aspect="Display" attribute="Quality" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>sunetul este cat trebuie ( ma asteptam sa se auda mai tare ca la o tableta</text>
+                    <Opinion aspect="Audio" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="5:0">
+                    <text>In concluzie se merita. Recomand.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="6:0">
+                    <text>Mai ales ca l - am gasit la promotie cu pretul de 999, 99 lei.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="2">
+            <user>user9</user>
+            <text>Un laptop ok pentru business. Este făcut sa ruleze pe Windows 10 pentru ca nu are cd cu drIvere si oarecum te obliga sa ii pui Windowsul 10. In rest merge bine, carcasa se pătează de la amprente ceea ce e puțin enervant, bateria tine 4 ore si nici nu este foarte greu, cântărind 2. 1kg. E ok ca nu are bateria incorporată Si o poți schimba ușor cand se duce. Overall un laptop bun pentru 1, 000 de RON pe care i-am dat pe el. EMAG a fost foarte prompt si mi-a livrat laptopul repede.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Un laptop ok pentru business.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:0">
+                    <text> Este făcut sa ruleze pe Windows 10 pentru ca nu are cd cu drIvere si oarecum te obliga sa ii pui Windowsul 10.</text>
+                    <Opinion aspect="OS" attribute="General" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                 <sentence id="3:0">
+                    <text>In rest merge bine.</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="4:0">
+                    <text>carcasa se pătează de la amprente ceea ce e puțin enervant,</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                 <sentence id="5:0">
+                    <text>bateria tine 4 ore,</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="6:0">
+                    <text>si nici nu este foarte greu, cântărind 2.1 kg</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="7:0">
+                    <text>E ok ca nu are bateria incorporată Si o poți schimba ușor cand se duce.</text>
+                    <Opinion aspect="Battery" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="8:0">
+                    <text>Overall un laptop bun pentru 1, 000 de RON pe care i-am dat pe el.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="9:0">
+                    <text>EMAG a fost foarte prompt si mi-a livrat laptopul repede.</text>
+                    <Opinion aspect="Company" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user5</user>
+            <text>Un laptop foarte bun, nota 10 din toate punctele de vedere, se misca mai bine decat un laptop cu procesor i3.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Un laptop foarte bun, nota 10 din toate punctele de vedere,</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>se misca mai bine decat un laptop cu procesor i3.</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user2</user>
+            <text>totul este ok se misca pe net mai bine ca laptopul meu I5, serios si camera este mai buna. Este un laptop perfect pentru un buget mic recomand</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>totul este ok se misca pe net mai bine ca laptopul meu I5, serios</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>si camera este mai buna.</text>
+                    <Opinion aspect="Video" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>Este un laptop perfect pentru un buget mic recomand.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="excited" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+<Product>
+        <brand>Asus</brand>
+        <model>X555LB-XX026D</model>
+        <processor>Intel Core i7 5500U 2400 MHz, Broadwell</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>1000 GB</hard_drive>
+        <video_card>Nvidia 940M</video_card>
+        <card_description>Dedicated</card_description>
+        <battery_life></battery_life>
+        <item_weight>2.3 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black and grey</color>
+        <operating_system>Free DOS</operating_system>
+</Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user6</user>
+            <text>Configuratia aceasta isi merita toti banii si la pretul acesta nu avem pretentii de carcasa de aluminiu si nu stiu ce alte fite. Bani ii platim pentru performanta... Designul este placut dar din plastic. Personal nu imi place clickul de la touchpad... Este destul de zgomotos:).. Dar tastatura compenseaza acest lucru. Am cumparat laptopul resigilat la 2160 lei... Vad ca acum iar a luat razna pretul:))</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Configuratia aceasta isi merita toti banii si la pretul acesta nu avem pretentii de carcasa de aluminiu si nu stiu ce alte fite. Bani ii platim pentru performanta... </text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="2:0">
+                    <text>Designul este placut dar din plastic.</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="3:0">
+                    <text>Personal nu imi place clickul de la touchpad... Este destul de zgomotos:)..</text>
+                    <Opinion aspect="TouchPad" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                 <sentence id="4:0">
+                    <text>Dar tastatura compenseaza acest lucru</text>
+                    <Opinion aspect="Keyboard" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="5:0">
+                    <text>Am cumparat laptopul resigilat la 2160 lei... Vad ca acum iar a luat razna pretul:))</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="2">
+            <user>user6</user>
+            <text>Revin cu un feedback după achiziționarea acestui minunat laptop. Sunt încantat, puțin spus încantat, foarte mulțumit de acest produs oferit de Emag cu toate că nu îl folosesc pentru gaming ci doar strict pentru programare (Web Development) însă presupun ca merg extraordinar și jocurile. Citisem in recenzii cum că HDD scoate un mic scarțait, așa este însă nu este deranjant deloc ba chiar nici nu se aude dacă nu îți stă gandul acolo.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Revin cu un feedback după achiziționarea acestui minunat laptop.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="2:0">
+                    <text>Sunt încantat, puțin spus încantat, foarte mulțumit de acest produs oferit de Emag cu toate că nu îl folosesc pentru gaming ci doar strict pentru programare (Web Development)</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>însă presupun ca merg extraordinar și jocurile</text>
+                    <Opinion aspect="Gaming" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>Citisem in recenzii cum că HDD scoate un mic scarțait, așa este însă nu este deranjant deloc ba chiar nici nu se aude dacă nu îți stă gandul acolo.</text>
+                    <Opinion aspect="Laptop" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="5:0">
+                    <text>Repet acest produs îsi merită banii din plin!</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="excited" polarity="positive" />
+                </sentence>
+             </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user8</user>
+            <text>Calitate foarte buna, pret foarte bun.isi merita banii din orice punct de vedere.comanda data sambata seara, colet primit luni dimineata.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Calitate foarte buna,</text>
+                    <Opinion aspect="Laptop" attribute="Quality" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>pret foarte bun.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>isi merita banii din orice punct de vedere.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>comanda data sambata seara, colet primit luni dimineata.</text>
+                    <Opinion aspect="Delivery" attribute="Operation" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user5</user>
+            <text>Detin deja de aproximativ 2 luni acest laptop si sunt foarte multumit de el. Este foarte silentios, bateria tine ore bune (conteaza foarte mult si cum se utilizeaza). Cred ca era mai OK daca avea 8 GB RAM si nu 4 GB cat are momentan. Singurul inconvenient il consider faptul ca bateria nu este detasabila, decat daca il desfaci.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Detin deja de aproximativ 2 luni acest laptop</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>si sunt foarte multumit de el.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>Este foarte silentios,</text>
+                    <Opinion aspect="Laptop" attribute="Operation" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>bateria tine ore bune (conteaza foarte mult si cum se utilizeaza),</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="5:0">
+                    <text>Cred ca era mai OK daca avea 8 GB RAM si nu 4 GB cat are momentan.</text>
+                    <Opinion aspect="Memory" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="6:0">
+                    <text>Singurul inconvenient il consider faptul ca bateria nu este detasabila, decat daca il desfaci.</text>
+                    <Opinion aspect="Battery" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user5</user>
+            <text>Materiale ieftine, plastic prost. Senzatie de plastic. Configuratie ok.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Materiale ieftine,</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>plastic prost, Senzatie de plastic.</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>Configuratie ok.</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+<Product>
+        <brand>Acer</brand>
+        <model>Aspire E5-551G-T6Q7</model>
+        <processor>AMD Quad-Core A10-7300 2000 MHz</processor>
+        <display>15.6 inches</display>
+        <RAM_memory>4 GB DDR3</RAM_memory>
+        <memory_speed>1600 MHz</memory_speed>
+        <hard_drive>1000 GB</hard_drive>
+        <video_card>Radeon R7 M265</video_card>
+        <card_description>Dedicated</card_description>
+        <battery_life>7 hours</battery_life>
+        <item_weight>2.7 kilos</item_weight>
+        <housing_material>plastic</housing_material>
+        <color>black</color>
+        <operating_system>Linux</operating_system>
+</Product>
+    <Reviews>
+        <Review rid="1">
+            <user>user9</user>
+            <text>Dupa prima impresie per total sunt multumit de achizitie. Materialele folosite lasa de dorit, plastic prea maleabil la display, da senzatia de ieftin. O alta chestie deranjanta pentru mine este touch padul care e pozitionat prea in stanga (e putin incomod). Cu toate astea per ansamblu e un laptop bun care imi acopera nevoile</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Dupa prima impresie per total sunt multumit de achizitie</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>Materialele folosite lasa de dorit, plastic prea maleabil la display, da senzatia de ieftin.</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>O alta chestie deranjanta pentru mine este touch padul care e pozitionat prea in stanga (e putin incomod)</text>
+                    <Opinion aspect="TouchPad" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>Cu toate astea per ansamblu e un laptop bun care imi acopera nevoile</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="2">
+            <user>user3</user>
+            <text>Este unul dintre cele mai bune laptopuri</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Este unul dintre cele mai bune laptopuri</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="3">
+            <user>user2</user>
+            <text>Placa video destul de buna. Sunetul este foarte clar. Display-ul mie chiar imi place si tastatura este ok! O problema ar fi faptul ca materialul din care e facuta carcasa e cam "naspa", raman amprente si sunt foarte vizibile. In plus, se incalzeste destul de tare. Cu toate acestea, consider ca merita banii pe care i-am dat.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Placa video destul de buna</text>
+                    <Opinion aspect="Video" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="2:0">
+                    <text>Sunetul este foarte clar</text>
+                    <Opinion aspect="Audio" attribute="Performance" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>Display-ul mie chiar imi place</text>
+                    <Opinion aspect="Display" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>si tastatura este ok!</text>
+                    <Opinion aspect="Keyboard" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="5:0">
+                    <text>O problema ar fi faptul ca materialul din care e facuta carcasa e cam "naspa", raman amprente si sunt foarte vizibile</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="6:0">
+                    <text> In plus, se incalzeste destul de tare.</text>
+                    <Opinion aspect="Laptop" attribute="Operation" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                <sentence id="7:0">
+                    <text>Cu toate acestea, consider ca merita banii pe care i-am dat.</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="4">
+            <user>user4</user>
+            <text>Il folosesc de o luna si pot spune ca: e placut la vedere si atingere. Jocurile merg perfect. Sunt dezamagit doar de faptul ca bateria tine doar 3 ore. Dar, la banii ăștia își face datoria cu succes. Recomand..</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Il folosesc de o luna si pot spune ca:</text>
+                    <Opinion aspect="Laptop" attribute="Purchase" emotion="unmoved" polarity="neutral" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>e placut la vedere si atingere.</text>
+                    <Opinion aspect="Laptop" attribute="Design" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>Jocurile merg perfect..</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="excited" polarity="positive" />
+                </sentence>
+                <sentence id="4:0">
+                    <text>Sunt dezamagit doar de faptul ca bateria tine doar 3 ore</text>
+                    <Opinion aspect="Battery" attribute="Performance" emotion="disappointed" polarity="negative" />
+                </sentence>
+                 <sentence id="5:0">
+                    <text>Dar, la banii ăștia își face datoria cu succes</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+                 <sentence id="6:0">
+                    <text>Recomand..</text>
+                    <Opinion aspect="Laptop" attribute="General" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+        <Review rid="5">
+            <user>user9</user>
+            <text>Eficient si rapid, bunicel la jocuri. Singurul defect nu am reusit sa gasesc drivere pentru windows 7 dar lucreaza acum pe windows 8. Dar pretul este acceptabil.</text>
+            <sentences>
+                <sentence id="1:0">
+                    <text>Eficient si rapid</text>
+                    <Opinion aspect="Laptop" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="2:0">
+                    <text>bunicel la jocuri..</text>
+                    <Opinion aspect="Gaming" attribute="Performance" emotion="satisfied" polarity="positive" />
+                </sentence>
+                <sentence id="3:0">
+                    <text>Singurul defect nu am reusit sa gasesc drivere pentru windows 7 dar lucreaza acum pe windows 8</text>
+                    <Opinion aspect="Software" attribute="Operation" emotion="dissatisfied" polarity="negative" />
+                </sentence>
+                 <sentence id="4:0">
+                    <text>Dar pretul este acceptabil</text>
+                    <Opinion aspect="Laptop" attribute="Price" emotion="satisfied" polarity="positive" />
+                </sentence>
+            </sentences>
+        </Review>
+    </Reviews>
+</Products>
